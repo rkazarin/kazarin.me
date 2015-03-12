@@ -1,0 +1,17 @@
+{
+  "name": "kazarin.me",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.7.2",
+    "body-parser": "1.5.2"
+  },
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/rkazarin/kazarin.me.git"
+  },
+  "author": "Roman Kazarin",
+  "bugs": {
+    "url": "https://github.com/rkazarin/kazarin.me.git"
+  }
+}
