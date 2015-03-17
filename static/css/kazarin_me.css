@@ -24,8 +24,23 @@
         float: right;
     }
 
+/*#resume {
+  width: 700px ;
+  margin-left: auto ;
+  margin-right: auto ;
+  font-size: 17px;
+}*/
+
+.left-pad {
+    padding-left: 20px;
+}
+
 .resume_row{
     margin-left: 0;
+    width: 700px ;
+    margin-left: auto ;
+    margin-right: auto ;
+    font-size: 17px;
 }
 
 .col-md-1{
@@ -61,8 +76,18 @@ body {
     -o-background-size: cover;
 }
 
+.sectionTitle {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.sectionTitle h2 {
+    font-size: 30px;
+    color: gray; 
+}
+
 .headline {
-    padding: 150px 0;
+    padding: 175px 0;
 }
 
 .headline h1 {
@@ -97,6 +122,10 @@ body {
 */
 .featurette-heading {
     font-size: 50px;
+}
+
+.mini {
+    max-width: 20%;
 }
 
 footer {
