@@ -21,6 +21,11 @@ server.get('/', function(req, res) {
 
 });
 
+server.get('/secret', function(req, res) {
+
+	res.render('secret.ejs');
+})
+
 //More Setup
 server.use(express.static(__dirname + '/static'));
 
