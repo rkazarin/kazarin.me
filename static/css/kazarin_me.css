@@ -81,7 +81,7 @@ body {
 }
 
 .sectionTitle {
-    padding-top: 50px;
+    padding-top: 10px;
     padding-bottom: 20px;
 }
 
@@ -109,7 +109,7 @@ body {
 }
 
 .featurette-divider {
-    margin: 80px 0;
+    margin: 10px 0;
 }
 
 .featurette {
@@ -120,10 +120,11 @@ body {
     margin-right: 40px;
 }
 
-/*.featurette-image.pull-right {
+.featurette-image.pull-right {
     margin-left: 40px;
+    margin-bottom: 40px
 }
-*/
+
 .featurette-heading {
     font-size: 50px;
 }
